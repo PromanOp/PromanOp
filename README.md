@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PromanOp
 - 👀 I’m interested in Computer hardware, linux, learning programming languages, customizing software to look good etc
-- 🌱 I’m currently studying computer science in grade 11 
+- 🌱 I’m currently studying computer science in grade 12
 - 📫 To reach me you can mail me at makwanah3754@gmail.com 
 
 <!---
